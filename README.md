@@ -17,3 +17,7 @@ Cara menjalankan Program:
   
 ## Berikut link repository github
 
+  https://github.com/ghamma1928/Uas-Semester-1.git
+  
+## Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
+
