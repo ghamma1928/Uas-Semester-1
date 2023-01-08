@@ -13,3 +13,7 @@ Cara menjalankan Program:
 
 ## Untuk penjelasannya program berupa pdf silahkan kunjungi link berikut:
 
+  [Modul Program Nilai Mahasiswa Ghamma](https://drive.google.com/open?id=1C5TjkVcA9QPsUd5Hgi1aiT4bUSDjbAkw&authuser=prmanaputra75%40gmail.com&usp=drive_fs).
+  
+## Berikut link repository github
+
