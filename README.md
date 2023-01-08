@@ -22,4 +22,7 @@ Cara menjalankan Program:
 ## Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
   [Video youtube](https://youtu.be/Od8zCbsDAjY).
+  
+  
+**KURANG LEBIHNYA MOHON MAAF SEKIAN TERIMA KASIH**
 
